@@ -5,3 +5,6 @@ We finally make public policy recommendation making use of the data analysis res
 We use t and p value tests as well as PCA and K neighborhood analysis.
 
 We use help of AI to create a final polished presentation.
+The ginsl presentation created eith Gemma csn be seen here
+
+https://gamma.app/docs/Why-This-Crisis-Demands-Policy-Action-Now-hd154pc1bvwylzc
