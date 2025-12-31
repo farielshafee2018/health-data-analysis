@@ -12,4 +12,4 @@ https://gamma.app/docs/Why-This-Crisis-Demands-Policy-Action-Now-hd154pc1bvwylzc
 
 The final fashboard created using Claude can be found here
 
-https://claude.ai/public/artifactsb/fcd7e035-ff92-4ba5-a9ad-a29cc93c7b67
+https://claude.ai/public/artifacts/fcd7e035-ff92-4ba5-a9ad-a29cc93c7b67
